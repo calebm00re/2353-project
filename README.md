@@ -49,7 +49,9 @@ my algorithm broke the dataset into the following: (If any of the pictures are t
 ![Screen Shot 2021-11-13 at 8 32 34 PM](https://user-images.githubusercontent.com/72896477/141665144-0e7b1a9b-59eb-455e-b94b-8a25abdff295.png)
 ![Screen Shot 2021-11-13 at 8 34 37 PM](https://user-images.githubusercontent.com/72896477/141665193-25002e99-0bfc-457f-b195-d4e6a8f4bf72.png)
 
+### Additional improvement article:
 
+https://medium.com/smucs/girvan-newman-algorithm-modularity-enhancement-fbd0b9fda2bf
 
 ### Sources 
 [1] http://www-personal.umich.edu/~mejn/netdata/
