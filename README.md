@@ -7,6 +7,8 @@ the editor here: https://bit.ly/3HujxTk will create a visual output of the commu
 this file output, the program posts a single line to the console output to describe the runtime of the community detection in seconds.
   - to run the program, run the executable with a single command line argument: the name of the graphml file
 
+### Running the program
+The program can be run most simply by downloading clion and running it as a project through this IDE with the graphml file as a command line argument in the configurations. Similar to all other c++ programs, this project can also be compiled and run by a gcc compiler in a terminal. After this, running the program with the command line argument of the graphml file you wish to analyze will create the proper file output so long as the given graph is always within the reach of the program (i.e. same folder).
 
 ### Algorithm:
 The algorithm works off my custom implementation of a Girvan Newman Algorithm. I first analyze the shortest path between every
